@@ -14,6 +14,7 @@ import {
   Clock,
   CheckCircle,
   AlertCircle,
+  Gavel,
 } from 'lucide-react';
 import { AgentType, AgentStatus } from '../types';
 
